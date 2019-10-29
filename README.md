@@ -3,7 +3,7 @@ https://sjhy123.github.io/dragula_Component/
 
 # my-project
 
-> A Vue.js project  11
+> 可拖动装修组件
 
 ## Build Setup
 
